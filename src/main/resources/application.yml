@@ -30,4 +30,4 @@ spring:
       path: /console
       settings:
         trace: false
-        web-allow-others: false
+        web-allow-others: true
